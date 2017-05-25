@@ -1,2 +1,2 @@
 # CoreJava_Session1_Assignment2
-Operator examples
+Program to print the result of the expressions
